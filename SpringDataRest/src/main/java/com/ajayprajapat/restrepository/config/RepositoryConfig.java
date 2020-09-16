@@ -29,7 +29,7 @@ public class RepositoryConfig implements RepositoryRestConfigurer {
 		 * .map(Type::getJavaType) .toArray(Class[]::new));
 		 */
 		
-	
+	  
 	}
 	
 }
