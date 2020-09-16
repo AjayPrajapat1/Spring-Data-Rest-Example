@@ -1,4 +1,4 @@
-package com.ajayprajapt.restrepository;
+package com.ajayprajapat.restrepository;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
